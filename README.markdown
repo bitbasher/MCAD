@@ -1,9 +1,8 @@
-OpenSCAD MCAD Library [![](http://stillmaintained.com/elmom/MCAD.png)](http://stillmaintained.com/elmom/MCAD)
+OpenSCAD MCAD Library
 =====================
 
 This library contains components commonly used in designing and moching up
-mechanical designs. It is currently unfinished and you can expect some API
-changes, however many things are already working.
+mechanical designs. Looking for active co-maintainers
 
 This library is licensed under the LGPL 2.1
 See http://creativecommons.org/licenses/LGPL/2.1/ or the included file, lgpl-2.1.txt.
@@ -75,8 +74,10 @@ External utils that generate and and process openscad code:
 ## Development ##
 
 You are welcome to fork this project in github and request pulls. I will try to
-accomodate the community as much as possible in this. If for some reason you
-want collaborator access, just ask.
+accomodate the community as much as possible in this. If for any reason you
+want collaborator access, just ask. Looking for new co-maintainers, there are
+lots of fixes and additions spread in different forks, would be nice to have
+have the best of them consolidated here
 
 Github is fun (and easy), but I can include code submissions and other
 improvements directly, and have already included code from various sources
