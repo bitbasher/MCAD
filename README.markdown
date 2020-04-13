@@ -2,7 +2,7 @@ OpenSCAD MCAD Library
 =====================
 
 This library contains components commonly used in designing and moching up
-mechanical designs. Looking for active co-maintainers
+mechanical designs. Looking for active co-maintainers: https://github.com/SolidCode/MCAD/issues/22
 
 This library is licensed under the LGPL 2.1
 See http://creativecommons.org/licenses/LGPL/2.1/ or the included file, lgpl-2.1.txt.
@@ -77,7 +77,7 @@ You are welcome to fork this project in github and request pulls. I will try to
 accomodate the community as much as possible in this. If for any reason you
 want collaborator access, just ask. Looking for new co-maintainers, there are
 lots of fixes and additions spread in different forks, would be nice to have
-have the best of them consolidated here
+have the best of them consolidated here. See: https://github.com/SolidCode/MCAD/issues/22
 
 Github is fun (and easy), but I can include code submissions and other
 improvements directly, and have already included code from various sources
