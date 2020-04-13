@@ -11,7 +11,7 @@
 
 // 3D Shapes
 //box(width, height, depth);
-//roundedBox(width, height, depth, factor);
+//roundedBox(width, height, depth, radius);
 //cone(height, radius);
 //ellipticalCylinder(width, height, depth);
 //ellipsoid(width, height);
