@@ -14,6 +14,7 @@
  *  ellipse(width, height) {
 */
 
+use <layouts.scad>
 // Examples - (layouts.scad is required for examples)
 // example2DShapes(); use <layouts.scad>;
 

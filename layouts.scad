@@ -29,16 +29,19 @@
 //----------------------
 
 module list(iHeight)
-{
-	for (i = [0 : $children-1]) 
-		translate([0,i*iHeight]) children(i);
-}
-module grid(iWidth,iHeight,inYDir = true,limit=3)
-{
-	for (i = [0 : $children-1]) 
 	{
+	for (i = [0 : $children-1])
+		translate([0,i*iHeight])
+			children(i);
+	}
+
+
+module grid(iWidth,iHeight,inYDir = true,limit=3)
+	{
+	for (i = [0 : $children-1])
+		{
 		translate([(inYDir)? (iWidth)*(i%limit) : (iWidth)*floor(i/limit),
 					(inYDir)? (iHeight)*floor(i/limit) : (iHeight)*(i%limit)])
 					children(i);
+		}
 	}
-}
